@@ -1,0 +1,28 @@
+{
+  "name": "max-chat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "chat.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joecummings/max-chat.git"
+  },
+  "author": "Joe Cummings",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joecummings/max-chat/issues"
+  },
+  "homepage": "https://github.com/joecummings/max-chat#readme",
+  "dependencies": {
+    "apiai": "^4.0.3",
+    "botbuilder": "^4.6.2",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.0",
+    "node-nlp": "^4.0.0-rc.4",
+    "socket.io": "^2.3.0"
+  }
+}
