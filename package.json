@@ -23,6 +23,6 @@
     "express": "^4.17.1",
     "node-fetch": "^2.6.0",
     "node-nlp": "^4.0.0-rc.4",
-    "socket.io": "^2.3.0"
+    "socket.io": "^2.4.0"
   }
 }
